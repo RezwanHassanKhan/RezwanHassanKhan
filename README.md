@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my ericcson internship
+- 🔭 I’m currently working on my Ericsson/Mitacs summer internship. 
 - 🌱 I’m currently learning Docker and Kubernetes
 - 👯 I’m looking to collaborate on open source ML related project
 - 🤔 I’m looking for help with Docker
