@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on my Ericsson/Mitacs summer internship. 
-- 🌱 I’m currently learning Docker and Kubernetes
-- 👯 I’m looking to collaborate on open source ML related project
-- 🤔 I’m looking for help with Docker
-- 💬 Ask me about anything related to Data Analysis and data Pre-Processing 
+- 🔭 New Graduate with 1 year as Data Science and Automation Engineer Intern at Micro Focus.. 
+- 🌱 ML Researcher at Ericsson: Created ETL pipelines for fault detection in microservices.
+  - 👯 Knowledge of data structures, algorithms, programming, testing, scripting, and software engineering.
+- 🤔 Experienced in cross-functional teams, managing software development, and Agile methodologies.
+- 💬 Ask me about anything related to sofware development/AI Engineering and Data Science. 
 - 📫 How to reach me: https://www.linkedin.com/in/mdrezwankhan
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am an enigneer
