@@ -33,8 +33,9 @@
 - [Overview of Search Strategies](https://youtu.be/Ti5YKXnKivw)
 - [Breadth First Search (BFS)](https://youtu.be/j6bV7RZJ8w0)
 - [Depth First Search (DFS)](https://youtu.be/uplrJzQYmyo)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Depth Limited Search(DLS)](https://youtu.be/O51nUWJfvDc)
+- [Uninformed Search Strategy](https://youtu.be/BNV6jt8B_vM)
+- [Iterative Deepening Search](https://youtu.be/98aYV_SqDsI)
 
 <h2> 🤳 Connect with me:</h2>
 
