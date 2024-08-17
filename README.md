@@ -21,7 +21,7 @@
   - [CRUDE Application](https://github.com/RezwanHassanKhan/FullStackAppWithFlaskandReact)
     
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Problem Solving on Python Fundamentals](https://github.com/RezwanHassanKhan/pythonPractice)
   - [Backend and Unit Testing for a Library Management System](https://github.com/RezwanHassanKhan/LibraryManagementSystem)
 
 - <b>TypeScript</b>
