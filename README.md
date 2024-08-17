@@ -33,7 +33,7 @@
   - <b>TypeScript</b>
   
   - [Problem Solving](https://github.com/RezwanHassanKhan/typescriptPractice)
-  - [Typescript Unit testing fundemnatls impleneted in real projects](https://github.com/RezwanHassanKhan/typescriptTestProject)
+  - [Fundamentals of TypeScript Unit Testing Applied in Real Projects](https://github.com/RezwanHassanKhan/typescriptTestProject)
 
 <h2>Key Publication</h2>
 
