@@ -28,8 +28,9 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>📺Popular YouTube Videos</h2>
-<b>Popular YouTube Videos</b>
+<h2>📺YouTube Videos</h2>
+<b>Search Strategies</b>
+
 - [Overview of Search Strategies](https://youtu.be/Ti5YKXnKivw)
 - [Breadth First Search (BFS)](https://youtu.be/j6bV7RZJ8w0)
 - [Depth First Search (DFS)](https://youtu.be/uplrJzQYmyo)
