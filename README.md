@@ -28,7 +28,7 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 Videos on Search Strategies</h2>
 
 - [Overview of Search Strategies](https://youtu.be/Ti5YKXnKivw)
 - [Breadth First Search (BFS)](https://youtu.be/j6bV7RZJ8w0)
@@ -36,6 +36,12 @@
 - [Depth Limited Search(DLS)](https://youtu.be/O51nUWJfvDc)
 - [Uninformed Search Strategy](https://youtu.be/BNV6jt8B_vM)
 - [Iterative Deepening Search](https://youtu.be/98aYV_SqDsI)
+
+<h2>📺 Tensorflow 2.0 Tuitorial </h2>
+- [Introduction to TensorFlow and Installation guidelines.]([https://youtu.be/Ti5YKXnKivw](https://youtu.be/GFASR30hk2o))
+- [Import TF Library and creating multi-dimension tensors](https://youtu.be/a13P_zMcGy8)
+- [Basic Mathematical Operation ,Indexing and Reshaping](https://youtu.be/WI1HLScpsck)
+  
 
 <h2> 🤳 Connect with me:</h2>
 
