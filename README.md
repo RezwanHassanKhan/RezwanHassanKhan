@@ -28,8 +28,8 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>Notable Publications</h2>
-- [Overview of Search Strategies](https://youtu.be/Ti5YKXnKivw)
+<h2>Key Publications</h2>
+- [Predicting Depression in Bangladeshi Undergraduates using Machine Learning](https://ieeexplore.ieee.org/document/8971369)
 - [Overview of Search Strategies](https://youtu.be/Ti5YKXnKivw)
 
 <h2>📺YouTube Videos</h2>
