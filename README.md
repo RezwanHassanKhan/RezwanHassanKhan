@@ -30,14 +30,17 @@
 
 - <b>Github</b>
   - [CI/CD Implementation with GitHub Actions](https://github.com/RezwanHassanKhan/CICDPractice)
+ 
+<h2>👨‍💻Machine Learning/ AI Engineering Project:</h2>
+
+- <b>End to End Machine Learning Project Implementation(Flask,REST Api,Postman,Docker, Prometheus, Grafana</b>
+  - [Toward an Automated Real-Time Anomaly Detection Engine in Microservice Architectures](https://github.com/RezwanHassanKhan/ADS)
+
   
 <h2>Key Publication</h2>
 
 - [Predicting Depression in Bangladeshi Undergraduates using Machine Learning](https://ieeexplore.ieee.org/document/8971369)
 
-<h2>👨‍💻Machine Learning/ AI Engineering Project:</h2>
-- <b>End to End Machine Learning Project Implementation(Flask,REST Api,Postman,Docker, Prometheus, Grafana</b>
-  - [Toward an Automated Real-Time Anomaly Detection Engine in Microservice Architectures](https://github.com/RezwanHassanKhan/ADS)
 
 <h2>📺YouTube Videos</h2>
 <b>Search Strategies</b>
