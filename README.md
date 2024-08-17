@@ -1,4 +1,4 @@
-<h1>Hi, I'm Rezwan! <br/><a href="https://github.com/RezwanHassanKhan">Programmer</a>, <a href="https://www.linkedin.com/in/mdrezwankhan">Software Developer/Ml Engineer</a></h1>
+<h1>Hi, I'm Rezwan! <br/><a href="https://github.com/RezwanHassanKhan">Programmer</a>, <a href="https://www.linkedin.com/in/mdrezwankhan">Software Developer</a></h1>
 
 
 - 🔭 MSc in Computer Science with 1 year as Data Science and Automation Engineer Intern at Micro Focus.. 
