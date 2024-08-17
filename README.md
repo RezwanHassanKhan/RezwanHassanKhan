@@ -6,7 +6,6 @@
 - 👯 Knowledge of data structures, algorithms, programming, testing, scripting, and software engineering.
 - 🤔 Experienced in cross-functional teams, managing software development, and Agile methodologies.
 - 💬 Ask me about anything related to sofware development/AI Engineering and Data Science. 
-- 📫 How to reach me: https://www.linkedin.com/in/mdrezwankhan
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am an enigneer
 
