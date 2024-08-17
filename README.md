@@ -30,8 +30,7 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - <b>TypeScript</b>
-  
+- <b>TypeScript</b>
   - [Problem Solving](https://github.com/RezwanHassanKhan/typescriptPractice)
   - [Fundamentals of TypeScript Unit Testing Applied in Real Projects](https://github.com/RezwanHassanKhan/typescriptTestProject)
 
