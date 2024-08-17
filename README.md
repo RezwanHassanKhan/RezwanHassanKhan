@@ -15,7 +15,7 @@
   - [Praciting DS & Algos in Python](https://github.com/RezwanHassanKhan/python_Problem_Solving_algoExpert)
  
 - <b>End to End Machine Learning Project Implementation(Flask,REST Api,Postman,Docker, Prometheus, Grafana</b>
-  - [Toward an Automated Real-Time Anomaly Detection Engine in Microservice Architectures](https://github.com/RezwanHassanKhan/python_Problem_Solving_algoExpert)
+  - [Toward an Automated Real-Time Anomaly Detection Engine in Microservice Architectures](https://github.com/RezwanHassanKhan/ADS)
     
 - <b>Simple Full Stack Web App (React,Flask and SQLite)</b>
   - [CRUDE Application](https://github.com/RezwanHassanKhan/FullStackAppWithFlaskandReact)
