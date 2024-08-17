@@ -25,7 +25,7 @@
 - <b>TypeScript</b>
   - [Problem Solving on TypeScript Fundamentals](https://github.com/RezwanHassanKhan/typescriptPractice)
   - [Fundamentals of TypeScript Unit Testing Applied in Real Projects](https://github.com/RezwanHassanKhan/typescriptTestProject)
-  - [Product Management System(Backend and unit testing](https://github.com/RezwanHassanKhan/ProductManagement)
+  - [Backend and Unit Testing for a Product Management System](https://github.com/RezwanHassanKhan/ProductManagement)
 
 <h2>Key Publication</h2>
 
