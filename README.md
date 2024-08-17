@@ -28,6 +28,10 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
+<h2>Notable Publications</h2>
+- [Overview of Search Strategies](https://youtu.be/Ti5YKXnKivw)
+- [Overview of Search Strategies](https://youtu.be/Ti5YKXnKivw)
+
 <h2>📺YouTube Videos</h2>
 <b>Search Strategies</b>
 
