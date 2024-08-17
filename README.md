@@ -43,7 +43,7 @@
 - [Iterative Deepening Search](https://youtu.be/98aYV_SqDsI)
 
 <b>Tensorflow 2.0 Tuitorial </b>
-- [Introduction to TensorFlow and Installation guidelines.]([https://youtu.be/Ti5YKXnKivw](https://youtu.be/GFASR30hk2o))
+- [Introduction to TensorFlow and Installation guidelines.](https://youtu.be/GFASR30hk2o)
 - [Import TF Library and creating multi-dimension tensors](https://youtu.be/a13P_zMcGy8)
 - [Basic Mathematical Operation ,Indexing and Reshaping](https://youtu.be/WI1HLScpsck)
   
