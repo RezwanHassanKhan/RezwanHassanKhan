@@ -29,6 +29,11 @@
   - [Fundamentals of TypeScript Unit Testing Applied in Real Projects](https://github.com/RezwanHassanKhan/typescriptTestProject)
   - [Backend and Unit Testing for a Product Management System](https://github.com/RezwanHassanKhan/ProductManagement)
 
+- <b>Github</b>
+  - [CI/CD Implementation with GitHub Actions](https://github.com/RezwanHassanKhan/CICDPractice)
+  - [Fundamentals of TypeScript Unit Testing Applied in Real Projects](https://github.com/RezwanHassanKhan/typescriptTestProject)
+  - [Backend and Unit Testing for a Product Management System](https://github.com/RezwanHassanKhan/ProductManagement)
+
 <h2>Key Publication</h2>
 
 - [Predicting Depression in Bangladeshi Undergraduates using Machine Learning](https://ieeexplore.ieee.org/document/8971369)
