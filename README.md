@@ -13,7 +13,7 @@
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/RezwanHassanKhan/python_Problem_Solving_algoExpert)
-- <b>Simple Full Stack Web App (React, Flasl, and SQLite)</b>
+- <b>Simple Full Stack Web App (React,Flask and SQLite)</b>
   - [CRUDE Application](https://github.com/RezwanHassanKhan/FullStackAppWithFlaskandReact)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
