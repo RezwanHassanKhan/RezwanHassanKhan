@@ -71,7 +71,7 @@
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: http://www.youtube.com/@raiseonemore683
 [instagram]: https://www.instagram.com/joshmadakor/
-[Gmail]: (mailto:your-email@gmail.com)
+
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
