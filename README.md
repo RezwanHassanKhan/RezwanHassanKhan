@@ -66,12 +66,12 @@
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<img align="left" alt="JoshMadakor | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> Gmail
+<img align="left" alt="JoshMadakor | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> [Gmail]
 
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: http://www.youtube.com/@raiseonemore683
 [instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://www.linkedin.com/in/mdrezwankhan/
+[Gmail]: (mailto:your-email@gmail.com)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
