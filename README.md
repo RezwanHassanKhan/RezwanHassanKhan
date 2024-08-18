@@ -57,7 +57,10 @@
 - [Import TF Library and creating multi-dimension tensors](https://youtu.be/a13P_zMcGy8)
 - [Basic Mathematical Operation ,Indexing and Reshaping](https://youtu.be/WI1HLScpsck)
   
+<h2> 🤳 Recommendation :</h2>
 
+- [Recommendations](https://www.linkedin.com/in/mdrezwankhan/details/recommendations/?detailScreenTabIndex=0)
+  
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
