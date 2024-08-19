@@ -5,7 +5,6 @@
   <a href="https://github.com/RezwanHassanKhan">Programmer</a>, <a href="https://www.linkedin.com/in/mdrezwankhan">Software Developer</a>
 </h1>
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" alt="Coder GIF">
 
 🎓 **MSc in Computer Science** with 1 year as Data Science and Automation Engineer Intern at Micro Focus.  
 🔬 **ML Researcher at Ericsson**: Created ETL pipelines for fault detection in microservices.  
