@@ -1,8 +1,4 @@
-<h1 align="center">Hi, I'm Rezwan! <br/><a href="https://github.com/RezwanHassanKhan">Programmer</a>, <a href="https://www.linkedin.com/in/mdrezwankhan">Software Developer</a> 🚀</h1>
-
-<p align="center"><a href="(https://github.com/RezwanHassanKhan/resume/blob/main/md_khan_resume.docx-2.pdf)" style="font-size: small;">View My Resume</a></p>
-
-<h1 align="center">Hi, I'm Rezwan! <br/><a href="https://github.com/RezwanHassanKhan">Programmer</a>, <a href="https://www.linkedin.com/in/mdrezwankhan">Software Developer</a> 🚀</h1>
+<h1 align="center">Hi, I'm Rezwan! <br/><a href="https://github.com/RezwanHassanKhan">Programmer</a>, <a href="https://www.linkedin.com/in/mdrezwankhan">Software Developer</a> <br/><a href="https://your-resume-link-here.com" style="font-size: small;">View My Resume</a></h1>
 
 📄 [**View My Resume**](https://github.com/RezwanHassanKhan/resume/blob/main/md_khan_resume.docx-2.pdf)
 
