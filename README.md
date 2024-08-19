@@ -1,75 +1,64 @@
-<h1 align="center">Hi, I'm Rezwan! <br/><a href="https://github.com/RezwanHassanKhan">Programmer</a>, <a href="https://www.linkedin.com/in/mdrezwankhan">Software Developer</a> 🚀</h1>
+<h1 align="center">
+  Hi, I'm Rezwan! <br/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" alt="TypeScript" width="50px" />
+  <br/>
+  <a href="https://github.com/RezwanHassanKhan">Programmer</a>, <a href="https://www.linkedin.com/in/mdrezwankhan">Software Developer</a>
+</h1>
 
-🎓 **MSc in Computer Science** with 1 year as Data Science and Automation Engineer Intern at Micro Focus.
-🔬 **ML Researcher at Ericsson**: Created ETL pipelines for fault detection in microservices.
-💻 **Knowledge of** data structures, algorithms, programming, testing, scripting, and software engineering.
-🤝 **Experienced in** cross-functional teams, managing software development, and Agile methodologies.
-💬 **Ask me about anything** related to software development, AI Engineering, and Data Science.
-🇨🇦 **Nationality/Work Authorization**: Canadian Permanent Resident
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" alt="Coder GIF">
+
+🎓 **MSc in Computer Science** with 1 year as Data Science and Automation Engineer Intern at Micro Focus.  
+🔬 **ML Researcher at Ericsson**: Created ETL pipelines for fault detection in microservices.  
+💻 **Knowledge of** data structures, algorithms, programming, testing, scripting, and software engineering.  
+🤝 **Experienced in** cross-functional teams, managing software development, and Agile methodologies.  
+💬 **Ask me about anything** related to software development, AI Engineering, and Data Science.  
+🇨🇦 **Nationality/Work Authorization**: Canadian Permanent Resident  
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- **Data Structures and Algorithms Practice (AlgoExpert)**  
-  ![Python](https://img.shields.io/badge/Python-3-blue)  
-  - [Practicing DS & Algos in Python](https://github.com/RezwanHassanKhan/python_Problem_Solving_algoExpert)
+**Data Structures and Algorithms Practice (AlgoExpert)**  
+[Practicing DS & Algos in Python](https://github.com/RezwanHassanKhan/python_Problem_Solving_algoExpert)
 
-- **Simple Full Stack Web App (React, Flask, and SQLite)**  
-  ![React](https://img.shields.io/badge/React-17-blue) ![Flask](https://img.shields.io/badge/Flask-1.1.2-blue) ![SQLite](https://img.shields.io/badge/SQLite-3-blue)  
-  - [CRUD Application](https://github.com/RezwanHassanKhan/FullStackAppWithFlaskandReact)
-  
-- **Python**  
-  ![Python](https://img.shields.io/badge/Python-3-blue)  
-  - [Problem Solving on Python Fundamentals](https://github.com/RezwanHassanKhan/pythonPractice)
-  - [Backend and Unit Testing for a Library Management System](https://github.com/RezwanHassanKhan/LibraryManagementSystem)
+**Simple Full Stack Web App (React, Flask, and SQLite)**  
+[CRUD Application](https://github.com/RezwanHassanKhan/FullStackAppWithFlaskandReact)
 
-- **TypeScript**  
-  ![TypeScript](https://img.shields.io/badge/TypeScript-4-blue)  
-  - [Problem Solving on TypeScript Fundamentals](https://github.com/RezwanHassanKhan/typescriptPractice)
-  - [Fundamentals of TypeScript Unit Testing Applied in Real Projects](https://github.com/RezwanHassanKhan/typescriptTestProject)
-  - [Backend and Unit Testing for a Product Management System](https://github.com/RezwanHassanKhan/ProductManagement)
+**Python**  
+[Problem Solving on Python Fundamentals](https://github.com/RezwanHassanKhan/pythonPractice)  
+[Backend and Unit Testing for a Library Management System](https://github.com/RezwanHassanKhan/LibraryManagementSystem)
 
-- **GitHub**  
-  ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-blue)  
-  - [CI/CD Implementation with GitHub Actions](https://github.com/RezwanHassanKhan/CICDPractice)
+**TypeScript**  
+[Problem Solving on TypeScript Fundamentals](https://github.com/RezwanHassanKhan/typescriptPractice)  
+[Fundamentals of TypeScript Unit Testing Applied in Real Projects](https://github.com/RezwanHassanKhan/typescriptTestProject)  
+[Backend and Unit Testing for a Product Management System](https://github.com/RezwanHassanKhan/ProductManagement)
+
+**GitHub**  
+[CI/CD Implementation with GitHub Actions](https://github.com/RezwanHassanKhan/CICDPractice)
 
 <h2>🤖 Machine Learning/ AI Engineering Projects:</h2>
 
-- **End to End Machine Learning Project Implementation (Flask, REST API, Postman, Docker, Prometheus, Grafana)**  
-  ![Flask](https://img.shields.io/badge/Flask-1.1.2-blue) ![Docker](https://img.shields.io/badge/Docker-19.03-blue)  
-  - [Toward an Automated Real-Time Anomaly Detection Engine in Microservice Architectures](https://github.com/RezwanHassanKhan/ADS)
+**End to End Machine Learning Project Implementation (Flask, REST API, Postman, Docker, Prometheus, Grafana)**  
+[Toward an Automated Real-Time Anomaly Detection Engine in Microservice Architectures](https://github.com/RezwanHassanKhan/ADS)
 
 <h2>📝 Key Publication</h2>
 
-- [Predicting Depression in Bangladeshi Undergraduates using Machine Learning](https://ieeexplore.ieee.org/document/8971369)
+[Predicting Depression in Bangladeshi Undergraduates using Machine Learning](https://ieeexplore.ieee.org/document/8971369)
 
 <h2>📺 YouTube Videos</h2>
+**Search Strategies**
 
- **Search Strategies**
-- [Overview of Search Strategies](https://youtu.be/Ti5YKXnKivw)
-- [Breadth First Search (BFS)](https://youtu.be/j6bV7RZJ8w0)
-- [Depth First Search (DFS)](https://youtu.be/uplrJzQYmyo)
-- [Depth Limited Search (DLS)](https://youtu.be/O51nUWJfvDc)
-- [Uninformed Search Strategy](https://youtu.be/BNV6jt8B_vM)
-- [Iterative Deepening Search](https://youtu.be/98aYV_SqDsI)
+[Overview of Search Strategies](https://youtu.be/Ti5YKXnKivw)  
+[Breadth First Search (BFS)](https://youtu.be/j6bV7RZJ8w0)  
+[Depth First Search (DFS)](https://youtu.be/uplrJzQYmyo)  
+[Depth Limited Search (DLS)](https://youtu.be/O51nUWJfvDc)  
+[Uninformed Search Strategy](https://youtu.be/BNV6jt8B_vM)  
+[Iterative Deepening Search](https://youtu.be/98aYV_SqDsI)
 
 **TensorFlow 2.0 Tutorial**
-- [Introduction to TensorFlow and Installation Guidelines](https://youtu.be/GFASR30hk2o)
-- [Import TF Library and Creating Multi-Dimensional Tensors](https://youtu.be/a13P_zMcGy8)
-- [Basic Mathematical Operations, Indexing, and Reshaping](https://youtu.be/WI1HLScpsck)
+
+[Introduction to TensorFlow and Installation Guidelines](https://youtu.be/GFASR30hk2o)  
+[Import TF Library and Creating Multi-Dimensional Tensors](https://youtu.be/a13P_zMcGy8)  
+[Basic Mathematical Operations, Indexing, and Reshaping](https://youtu.be/WI1HLScpsck)
 
 <h2>⭐️ Recommendation</h2>
 <img alt="Recommendation" width="50px" src="https://www.onlygfx.com/wp-content/uploads/2017/12/recommended-stamp-1.png" style="margin-bottom: 10px;" />
-<a href="https://www.linkedin.com/in/mdrezwankhan/details/recommendations/?detailScreenTabIndex=0">
-    - Recommendations
-</a>
-
-<h2>🤳 Connect with Me:</h2>
-
-<p align="left">
-    <a href="https://www.youtube.com/@raiseonemore683"><img alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
-    <a href="https://twitter.com/joshmadakor"><img alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-    <a href="https://www.linkedin.com/in/mdrezwankhan/"><img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-    <a href="mailto:md.rezwanhassankhan@gmail.com"><img alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
-</p>
-
-![Profile Views](https://komarev.com/ghpvc/?username=RezwanHassanKhan)
+<a href="https://www.linkedin.com/in/mdrezwankhan/details/recommendations/?detailScreenTabIndex=0​⬤
