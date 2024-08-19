@@ -59,7 +59,7 @@
 [Basic Mathematical Operations, Indexing, and Reshaping](https://youtu.be/WI1HLScpsck)
 
 <h2>⭐️ Recommendation</h2>
-<img alt="Recommendation" width="50px" src="https://www.onlygfx.com/wp-content/uploads/2017/12/recommended-stamp-1.png" style="margin-bottom: 10px;" />
+
 <a href="https://www.linkedin.com/in/mdrezwankhan/details/recommendations/?detailScreenTabIndex=0">
     - Recommendations
 </a>
@@ -75,4 +75,3 @@
 [youtube]: http://www.youtube.com/@raiseonemore683
 [instagram]: https://www.instagram.com/joshmadakor/
 
-<img src="https://komarev.com/ghpvc/?username=RezwanHassanKhan" alt="Profile Views" />
