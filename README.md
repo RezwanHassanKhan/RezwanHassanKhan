@@ -1,6 +1,4 @@
-<h1 align="center">Hi, I'm Rezwan! <br/><a href="https://github.com/RezwanHassanKhan">Programmer</a>, <a href="https://www.linkedin.com/in/mdrezwankhan">Software Developer</a> 🚀</h1>
-
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" alt="Coder GIF">
+h1 align="center">Hi, I'm Rezwan! <br/><a href="https://github.com/RezwanHassanKhan">Programmer</a>, <a href="https://www.linkedin.com/in/mdrezwankhan">Software Developer</a> 🚀</h1>
 
 - 🎓 **MSc in Computer Science** with 1 year as Data Science and Automation Engineer Intern at Micro Focus.
 - 🔬 **ML Researcher at Ericsson**: Created ETL pipelines for fault detection in microservices.
@@ -12,26 +10,32 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - **Data Structures and Algorithms Practice (AlgoExpert)**  
+  ![Python](https://img.shields.io/badge/Python-3-blue)  
   - [Practicing DS & Algos in Python](https://github.com/RezwanHassanKhan/python_Problem_Solving_algoExpert)
 
 - **Simple Full Stack Web App (React, Flask, and SQLite)**  
+  ![React](https://img.shields.io/badge/React-17-blue) ![Flask](https://img.shields.io/badge/Flask-1.1.2-blue) ![SQLite](https://img.shields.io/badge/SQLite-3-blue)  
   - [CRUD Application](https://github.com/RezwanHassanKhan/FullStackAppWithFlaskandReact)
   
 - **Python**  
+  ![Python](https://img.shields.io/badge/Python-3-blue)  
   - [Problem Solving on Python Fundamentals](https://github.com/RezwanHassanKhan/pythonPractice)
   - [Backend and Unit Testing for a Library Management System](https://github.com/RezwanHassanKhan/LibraryManagementSystem)
 
 - **TypeScript**  
+  ![TypeScript](https://img.shields.io/badge/TypeScript-4-blue)  
   - [Problem Solving on TypeScript Fundamentals](https://github.com/RezwanHassanKhan/typescriptPractice)
   - [Fundamentals of TypeScript Unit Testing Applied in Real Projects](https://github.com/RezwanHassanKhan/typescriptTestProject)
   - [Backend and Unit Testing for a Product Management System](https://github.com/RezwanHassanKhan/ProductManagement)
 
 - **GitHub**  
+  ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-blue)  
   - [CI/CD Implementation with GitHub Actions](https://github.com/RezwanHassanKhan/CICDPractice)
 
 <h2>🤖 Machine Learning/ AI Engineering Projects:</h2>
 
 - **End to End Machine Learning Project Implementation (Flask, REST API, Postman, Docker, Prometheus, Grafana)**  
+  ![Flask](https://img.shields.io/badge/Flask-1.1.2-blue) ![Docker](https://img.shields.io/badge/Docker-19.03-blue)  
   - [Toward an Automated Real-Time Anomaly Detection Engine in Microservice Architectures](https://github.com/RezwanHassanKhan/ADS)
 
 <h2>📝 Key Publication</h2>
@@ -69,4 +73,4 @@
     <a href="mailto:md.rezwanhassankhan@gmail.com"><img alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=RezwanHassanKhan" alt="Profile Views" />
+![Profile Views](https://komarev.com/ghpvc/?username=RezwanHassanKhan)
