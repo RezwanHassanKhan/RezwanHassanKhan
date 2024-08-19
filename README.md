@@ -35,7 +35,7 @@
   - [Toward an Automated Real-Time Anomaly Detection Engine in Microservice Architectures](https://github.com/RezwanHassanKhan/ADS)
 
   
-<h2>Key Publication</h2>
+<h2>📝Key Publication</h2>
 
 - [Predicting Depression in Bangladeshi Undergraduates using Machine Learning](https://ieeexplore.ieee.org/document/8971369)
 
