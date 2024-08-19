@@ -58,9 +58,8 @@
 - [Basic Mathematical Operation ,Indexing and Reshaping](https://youtu.be/WI1HLScpsck)
   
 
-<h2><a href="https://www.onlygfx.com/wp-content/uploads/2017/12/recommended-stamp-1.png">
-    <img alt="Recommendation" width="50px" src="https://www.onlygfx.com/wp-content/uploads/2017/12/recommended-stamp-1.png" /> 
-</a> Recommendation:</h2>
+<img alt="Recommendation" width="50px" src="https://www.onlygfx.com/wp-content/uploads/2017/12/recommended-stamp-1.png" style="margin-bottom: 10px;" /> 
+<h2>Recommendation:</h2>
 <a href="https://www.linkedin.com/in/mdrezwankhan/details/recommendations/?detailScreenTabIndex=0">
     - Recommendations
 </a>
