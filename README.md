@@ -6,9 +6,9 @@
 🔬 **ML Researcher at Ericsson,Canada**: Created ETL pipelines for fault detection in microservices.  
 💻 **Knowledge of** data structures, algorithms, programming, testing, scripting, and software engineering.  
 🤝 **Experienced in** cross-functional teams, managing software development, and Agile methodologies.  
-💬 **Ask me about anything** related to software development, AI Engineering, and Data Science.  
 🇨🇦 **Nationality/Work Authorization**: Canadian Permanent Resident.  
 👨‍🎓 **Alumnus of** Carleton University, Ottawa, ON, Canada.
+💬 **Ask me about anything** related to software development, AI Engineering, and Data Science.  
 
 ---
 
