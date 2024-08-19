@@ -1,7 +1,5 @@
 <h1 align="center">
-  Hi, I'm Rezwan! <br/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" alt="TypeScript" width="50px" />
-  <br/>
+  Hi, I'm Rezwan! 
   <a href="https://github.com/RezwanHassanKhan">Programmer</a>, <a href="https://www.linkedin.com/in/mdrezwankhan">Software Developer</a>
 </h1>
 
