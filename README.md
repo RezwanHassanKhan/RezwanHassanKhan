@@ -39,7 +39,12 @@
 <h2>🤖 Machine Learning/ AI Engineering Projects:</h2>
 
 **End to End Machine Learning Project Implementation (Flask, REST API, Postman, Docker, Prometheus, Grafana)**  
-![Flask](https://img.shields.io/badge/Flask-1.1.2-blue) ![Docker](https://img.shields.io/badge/Docker-19.03-blue)  
+![Flask](https://img.shields.io/badge/Flask-1.1.2-blue) 
+![Docker](https://img.shields.io/badge/Docker-19.03-blue) 
+![REST API](https://img.shields.io/badge/REST%20API-1.0-lightgrey) 
+![Postman](https://img.shields.io/badge/Postman-8.0-orange) 
+![Prometheus](https://img.shields.io/badge/Prometheus-2.26.0-red) 
+![Grafana](https://img.shields.io/badge/Grafana-7.5.0-yellow)    
 1. [Toward an Automated Real-Time Anomaly Detection Engine in Microservice Architectures](https://github.com/RezwanHassanKhan/ADS)
 
 **Binary and Multiclass Image Classification**  
