@@ -15,21 +15,26 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 **Data Structures and Algorithms Practice (AlgoExpert)**  
+![Python](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg)  
 - [Practicing DS & Algos in Python](https://github.com/RezwanHassanKhan/python_Problem_Solving_algoExpert)
 
 **Simple Full Stack Web App (React, Flask, and SQLite)**  
+![Flask](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flask.svg)  
 - [CRUD Application](https://github.com/RezwanHassanKhan/FullStackAppWithFlaskandReact)
 
 **Python Projects**  
+![Python](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg)  
 - [Problem Solving on Python Fundamentals](https://github.com/RezwanHassanKhan/pythonPractice)  
 - [Backend and Unit Testing for a Library Management System](https://github.com/RezwanHassanKhan/LibraryManagementSystem)
 
 **TypeScript Projects**  
+![TypeScript](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg)  
 - [Problem Solving on TypeScript Fundamentals](https://github.com/RezwanHassanKhan/typescriptPractice)  
 - [Unit Testing in TypeScript for Real Projects](https://github.com/RezwanHassanKhan/typescriptTestProject)  
 - [Backend and Unit Testing for a Product Management System](https://github.com/RezwanHassanKhan/ProductManagement)
 
 **CI/CD & GitHub Projects**  
+![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg)  
 - [CI/CD Implementation with GitHub Actions](https://github.com/RezwanHassanKhan/CICDPractice)
 
 ---
@@ -37,6 +42,7 @@
 <h2>🤖 Machine Learning & AI Engineering Projects:</h2>
 
 **End-to-End Machine Learning Project (Flask, REST API, Docker, Prometheus, Grafana)**  
+![Docker](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg)  
 - [Automated Real-Time Anomaly Detection in Microservice Architectures](https://github.com/RezwanHassanKhan/ADS)
 
 ---
@@ -49,6 +55,7 @@
 
 <h2>📺 YouTube Tutorials:</h2>
 **Search Strategies**  
+![YouTube](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg)  
 - [Overview of Search Strategies](https://youtu.be/Ti5YKXnKivw)  
 - [Breadth First Search (BFS)](https://youtu.be/j6bV7RZJ8w0)  
 - [Depth First Search (DFS)](https://youtu.be/uplrJzQYmyo)  
@@ -57,6 +64,7 @@
 - [Iterative Deepening Search](https://youtu.be/98aYV_SqDsI)
 
 **TensorFlow 2.0 Tutorial**  
+![TensorFlow](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tensorflow.svg)  
 - [Introduction to TensorFlow and Installation Guidelines](https://youtu.be/GFASR30hk2o)  
 - [Importing TF Library and Creating Multi-Dimensional Tensors](https://youtu.be/a13P_zMcGy8)  
 - [Basic Mathematical Operations, Indexing, and Reshaping](https://youtu.be/WI1HLScpsck)
