@@ -44,6 +44,7 @@
 
 **Image Classification and Prediction Using CNN**  
 ![Python](https://img.shields.io/badge/Python-3.8-blue) ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.4-orange) ![Keras](https://img.shields.io/badge/Keras-2.4.3-red)  
+
 2. [Image Orientation Classification and Prediction Using CNN](https://github.com/RezwanHassanKhan/CNN_PROJECT)
 ---
 
