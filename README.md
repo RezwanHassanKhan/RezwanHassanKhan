@@ -41,6 +41,7 @@
 **End to End Machine Learning Project Implementation (Flask, REST API, Postman, Docker, Prometheus, Grafana)**  
 ![Flask](https://img.shields.io/badge/Flask-1.1.2-blue) ![Docker](https://img.shields.io/badge/Docker-19.03-blue)  
 [Toward an Automated Real-Time Anomaly Detection Engine in Microservice Architectures](https://github.com/RezwanHassanKhan/ADS)
+[Image Orientation Classification and Prediction Using CNN](https://github.com/RezwanHassanKhan/CNN_PROJECT)
 
 ---
 
