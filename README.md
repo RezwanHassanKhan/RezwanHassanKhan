@@ -8,7 +8,7 @@
 🤝 **Experienced in** cross-functional teams, managing software development, and Agile methodologies.  
 💬 **Ask me about anything** related to software development, AI Engineering, and Data Science.  
 🇨🇦 **Nationality/Work Authorization**: Canadian Permanent Resident.  
-👨‍🎓 **Alumnus of** Carleton University.
+👨‍🎓 **Alumnus of** Carleton University,Ottawa,ON,Canada.
 
 ---
 
