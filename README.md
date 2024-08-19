@@ -2,12 +2,12 @@
 
 📄 [**View My Resume**](https://github.com/RezwanHassanKhan/resume/blob/main/md_khan_resume.docx-2.pdf)
 
-🎓 **MSc in Computer Science** with 1 year as Data Science and Automation Engineer Intern at Micro Focus.  
+👨‍🎓 **Alumnus of** Carleton University.  
+🇨🇦 **Nationality/Work Authorization**: Canadian Permanent Resident.  
 🔬 **ML Researcher at Ericsson**: Created ETL pipelines for fault detection in microservices.  
 💻 **Knowledge of** data structures, algorithms, programming, testing, scripting, and software engineering.  
 🤝 **Experienced in** cross-functional teams, managing software development, and Agile methodologies.  
-🇨🇦 **Nationality/Work Authorization**: Canadian Permanent Resident.  
-👨‍🎓 **Alumnus of** Carleton University.  
+🎓 **MSc in Computer Science** with 1 year as Data Science and Automation Engineer Intern at Micro Focus.  
 💬 **Ask me about anything** related to software development, AI Engineering, and Data Science.
 
 ---
