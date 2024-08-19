@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Rezwan! <br/><a href="https://github.com/RezwanHassanKhan">Programmer</a>, <a href="https://www.linkedin.com/in/mdrezwankhan">Software Developer</a> 🚀</h1>
 
-📄 **View My Resume**(https://github.com/RezwanHassanKhan/resume/blob/main/md_khan_resume.docx-2.pdf)
+📄 [**View My Resume**](https://github.com/RezwanHassanKhan/resume/blob/main/md_khan_resume.docx-2.pdf)
 🎓 **MSc in Computer Science** with 1 year as Data Science and Automation Engineer Intern at Micro Focus.  
 🔬 **ML Researcher at Ericsson**: Created ETL pipelines for fault detection in microservices.  
 💻 **Knowledge of** data structures, algorithms, programming, testing, scripting, and software engineering.  
