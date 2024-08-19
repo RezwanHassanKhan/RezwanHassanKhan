@@ -53,6 +53,7 @@
 ---
 
 <h2>📺 YouTube Videos</h2>
+
 **Search Strategies**
 
 [Overview of Search Strategies](https://youtu.be/Ti5YKXnKivw)  
@@ -71,7 +72,7 @@
 ---
 
 <h2>⭐️ Recommendation</h2>
-<img alt="Recommendation" width="50px" src="https://www.onlygfx.com/wp-content/uploads/2017/12/recommended-stamp-1.png" style="margin-bottom: 10px;" />  
+ 
 [Recommendations](https://www.linkedin.com/in/mdrezwankhan/details/recommendations/?detailScreenTabIndex=0)
 
 ---
