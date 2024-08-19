@@ -52,7 +52,7 @@
 <h2>📝 Project Report </h2>
 
 1. [Comparison Study between the challenges of AI and Android Development through an empirical study of StackOverflow Posts](https://ieeexplore.ieee.org/document/8971369)
-2. [Stock Price Fluctuation Prediction using Machine Learning and Sentiment Analysis]([Dsgn&dev of DataIntensive App Course.pdf](https://github.com/RezwanHassanKhan/MastersProjectReports/blob/cf6cb0ed82980e9ce03d5bb543f4cf0e386affb2/Dsgn%26dev%20of%20DataIntensive%20App%20Course.pdf)
+2. [Stock Price Fluctuation Prediction using Machine Learning and Sentiment Analysis](https://github.com/RezwanHassanKhan/MastersProjectReports/blob/cf6cb0ed82980e9ce03d5bb543f4cf0e386affb2/Dsgn%26dev%20of%20DataIntensive%20App%20Course.pdf)
 3. [Comparison Study between the challenges of AI and Android Development through an empirical study of StackOverflow Posts](https://ieeexplore.ieee.org/document/8971369)---
 
 
