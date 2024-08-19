@@ -59,7 +59,7 @@
 [Basic Mathematical Operations, Indexing, and Reshaping](https://youtu.be/WI1HLScpsck)
 
 <h2>⭐️ Recommendation</h2>
-<a href="https://www.linkedin.com/in/mdrezwankhan/details/recommendations/?detailScreenTabIndex=0​⬤
+<a href="https://www.linkedin.com/in/mdrezwankhan/details/recommendations/?detailScreenTabIndex=0​
 </a>
 
   
