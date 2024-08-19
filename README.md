@@ -61,8 +61,8 @@
 <a href="https://www.onlygfx.com/wp-content/uploads/2017/12/recommended-stamp-1.png">
     <img align="left" alt="Recommendation" width="100px" src="https://www.onlygfx.com/wp-content/uploads/2017/12/recommended-stamp-1.png" /> 
 </a>
-
 - [Recommendations](https://www.linkedin.com/in/mdrezwankhan/details/recommendations/?detailScreenTabIndex=0)
+
   
 <h2> 🤳 Connect with me:</h2>
 
