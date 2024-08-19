@@ -45,7 +45,7 @@
 **Binary and Multiclass Image Classification**  
 ![Python](https://img.shields.io/badge/Python-3.8-blue) ![scikit-learn](https://img.shields.io/badge/scikit--learn-0.24.2-orange) ![Pandas](https://img.shields.io/badge/Pandas-1.2.4-green) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4.2-purple)  
 
-2. [Binary and Multiclass Image Classification](https://github.com/RezwanHassanKhan/Binary_Multiclass_Classification_Project)
+2. [Binary and Multiclass Image Classification](https://github.com/RezwanHassanKhan/BinaryMultiImageClassification)
    
 **Image Classification and Prediction Using CNN**  
 ![Python](https://img.shields.io/badge/Python-3.8-blue) ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.4-orange) ![Keras](https://img.shields.io/badge/Keras-2.4.3-red)  
