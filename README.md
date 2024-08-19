@@ -5,6 +5,8 @@
   <a href="https://github.com/RezwanHassanKhan">Programmer</a>, <a href="https://www.linkedin.com/in/mdrezwankhan">Software Developer</a>
 </h1>
 
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" alt="Coder GIF">
+
 🎓 **MSc in Computer Science** with 1 year as Data Science and Automation Engineer Intern at Micro Focus.  
 🔬 **ML Researcher at Ericsson**: Created ETL pipelines for fault detection in microservices.  
 💻 **Knowledge of** data structures, algorithms, programming, testing, scripting, and software engineering.  
@@ -42,7 +44,6 @@
 [Predicting Depression in Bangladeshi Undergraduates using Machine Learning](https://ieeexplore.ieee.org/document/8971369)
 
 <h2>📺 YouTube Videos</h2>
-
 **Search Strategies**
 
 [Overview of Search Strategies](https://youtu.be/Ti5YKXnKivw)  
@@ -59,17 +60,12 @@
 [Basic Mathematical Operations, Indexing, and Reshaping](https://youtu.be/WI1HLScpsck)
 
 <h2>⭐️ Recommendation</h2>
-<a href="https://www.linkedin.com/in/mdrezwankhan/details/recommendations/?detailScreenTabIndex=0​
+<img alt="Recommendation" width="50px" src="https://www.onlygfx.com/wp-content/uploads/2017/12/recommended-stamp-1.png" style="margin-bottom: 10px;" />
+<a href="https://www.linkedin.com/in/mdrezwankhan/details/recommendations/?detailScreenTabIndex=0">
+    - Recommendations
 </a>
 
-  
-<h2> 🤳 Connect with me:</h2>
+<h2>🤳 Connect with Me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mdrezwankhan/) 
-[<img align="left" alt="JoshMadakor | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:md.rezwanhassankhan@gmail.com) 
-
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: http://www.youtube.com/@raiseonemore683
-[instagram]: https://www.instagram.com/joshmadakor/
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https​⬤
