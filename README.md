@@ -9,6 +9,7 @@
 💬 **Ask me about anything** related to software development, AI Engineering, and Data Science.  
 🇨🇦 **Nationality/Work Authorization**: Canadian Permanent Resident
 🎓 **Alumnus of** Carleton University 
+
 ---
 
 <h2>👨‍💻 Software Development Projects:</h2>
