@@ -57,10 +57,10 @@
 - [Import TF Library and creating multi-dimension tensors](https://youtu.be/a13P_zMcGy8)
 - [Basic Mathematical Operation ,Indexing and Reshaping](https://youtu.be/WI1HLScpsck)
   
-<a href="https://www.onlygfx.com/wp-content/uploads/2017/12/recommended-stamp-1.png">
+
+<h2><a href="https://www.onlygfx.com/wp-content/uploads/2017/12/recommended-stamp-1.png">
     <img alt="Recommendation" width="50px" src="https://www.onlygfx.com/wp-content/uploads/2017/12/recommended-stamp-1.png" /> 
-</a>
-<h2>Recommendation:</h2>
+</a> Recommendation:</h2>
 <a href="https://www.linkedin.com/in/mdrezwankhan/details/recommendations/?detailScreenTabIndex=0">
     - Recommendations
 </a>
