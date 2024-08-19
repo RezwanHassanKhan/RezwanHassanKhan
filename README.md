@@ -43,8 +43,8 @@
 - [Predicting Depression in Bangladeshi Undergraduates using Machine Learning](https://ieeexplore.ieee.org/document/8971369)
 
 <h2>📺 YouTube Videos</h2>
-**Search Strategies**
 
+ **Search Strategies**
 - [Overview of Search Strategies](https://youtu.be/Ti5YKXnKivw)
 - [Breadth First Search (BFS)](https://youtu.be/j6bV7RZJ8w0)
 - [Depth First Search (DFS)](https://youtu.be/uplrJzQYmyo)
@@ -53,7 +53,6 @@
 - [Iterative Deepening Search](https://youtu.be/98aYV_SqDsI)
 
 **TensorFlow 2.0 Tutorial**
-
 - [Introduction to TensorFlow and Installation Guidelines](https://youtu.be/GFASR30hk2o)
 - [Import TF Library and Creating Multi-Dimensional Tensors](https://youtu.be/a13P_zMcGy8)
 - [Basic Mathematical Operations, Indexing, and Reshaping](https://youtu.be/WI1HLScpsck)
