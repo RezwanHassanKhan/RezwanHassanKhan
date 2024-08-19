@@ -84,4 +84,4 @@
     <a href="mailto:md.rezwanhassankhan@gmail.com"><img alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=RezwanHassanKhan)
+
