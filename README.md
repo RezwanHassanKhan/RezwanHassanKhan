@@ -5,8 +5,8 @@
 - 🔬 ML Researcher at Ericsson: Created ETL pipelines for fault detection in microservices.
 - 💻 Knowledge of data structures, algorithms, programming, testing, scripting, and software engineering.
 - 🤝 Experienced in cross-functional teams, managing software development, and Agile methodologies.
-- 💬 Ask me about anything related to sofware development/AI Engineering and Data Science. 
-
+- 💬 Ask me about anything related to sofware development/AI Engineering and Data Science.
+-  ## 🇨🇦 Nationality/Work Authorization: Canadian Permanent Resident
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
