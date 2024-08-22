@@ -13,10 +13,11 @@
 ---
 
 <h2>👨‍💻 Software Development Projects:</h2>
-
+<!--
 **Data Structures and Algorithms Practice (AlgoExpert)**  
 ![Python](https://img.shields.io/badge/Python-3-blue)  
 [Practicing DS & Algos in Python](https://github.com/RezwanHassanKhan/python_Problem_Solving_algoExpert)
+-->
 
 **Simple Full Stack Web App (React, Flask, and SQLite)**  
 ![React](https://img.shields.io/badge/React-17-blue) ![Flask](https://img.shields.io/badge/Flask-1.1.2-blue) ![SQLite](https://img.shields.io/badge/SQLite-3-blue)  
