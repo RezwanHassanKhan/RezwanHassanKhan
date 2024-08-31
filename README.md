@@ -10,6 +10,16 @@
 👨‍🎓 **Alumnus of** Carleton University.  
 💬 **Ask me about anything** related to software development, AI Engineering, and Data Science.
 
+
+---
+
+<h2>👨‍💻DSA-ProblemSolve </h2>
+
+**Data Structures and Algorithms Practice (AlgoExpert)**  
+![Python](https://img.shields.io/badge/Python-3-blue)  
+[Practicing DS & Algos in Python](https://github.com/RezwanHassanKhan/python_Problem_Solving_algoExpert)
+
+
 ---
 
 <h2>👨‍💻 Software Development Projects:</h2>
