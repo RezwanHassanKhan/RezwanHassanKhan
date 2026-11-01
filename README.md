@@ -1,124 +1,203 @@
-<h1 align="center">Hi, I'm Rezwan Hassan! <br/><a href="https://github.com/RezwanHassanKhan">Programmer</a>, <a href="https://www.linkedin.com/in/mdrezwankhan">Software Developer</a> 👨‍💻</h1>
+# Hi, I'm Rezwan Hassan 👨‍💻
 
-📄 [**View My Resume**](https://github.com/RezwanHassanKhan/resume/blob/main/md_khan_resume.docx-2.pdf)
+### Full Stack Developer | AI Engineering | Backend Systems | Machine Learning
 
-🎓 **MSc in Computer Science** with 1 year as Data Science and Automation Engineer Intern at Micro Focus.  
-🔬 **ML Researcher at Ericsson**: Created ETL pipelines for fault detection in microservices.  
-💻 **Knowledge of** data structures, algorithms, programming, testing, scripting, and software engineering.  
-🤝 **Experienced in** cross-functional teams, managing software development, and Agile methodologies.  
-🇨🇦 **Nationality/Work Authorization**: Canadian Permanent Resident.  
-👨‍🎓 **Alumnus of** Carleton University.  
-💬 **Ask me about anything** related to software development, AI Engineering, and Data Science.
+I'm a Software Developer based in Ottawa, Canada, with a **Master's in Computer Science from Carleton University**.
 
+I currently work at **SimFront**, developing enterprise software, backend analytics services, and AI-enabled capabilities for military simulation applications.
 
----
+My interests include **software engineering, applied AI, intelligent agents, distributed systems, and machine learning**.
 
-<h2>👨‍💻DSA-ProblemSolve </h2>
-
-**Data Structures and Algorithms Practice (AlgoExpert)**  
-![Python](https://img.shields.io/badge/Python-3-blue)  
-[Practicing DS & Algos in Python](https://github.com/RezwanHassanKhan/python_Problem_Solving_algoExpert)
-
+🌐 **[Visit My Website](https://reztechlabs.dev/about)** | 💼 **[LinkedIn](https://www.linkedin.com/in/mdrezwankhan/)** | 📄 **[Resume](https://github.com/RezwanHassanKhan/resume/blob/main/md_khan_resume.docx-2.pdf)**
 
 ---
 
-<h2>👨‍💻 Software Development Projects:</h2>
-<!--
-**Data Structures and Algorithms Practice (AlgoExpert)**  
-![Python](https://img.shields.io/badge/Python-3-blue)  
-[Practicing DS & Algos in Python](https://github.com/RezwanHassanKhan/python_Problem_Solving_algoExpert)
--->
+## 🚀 What I'm Working On
 
-**Simple Full Stack Web App (React, Flask, and SQLite)**  
-![React](https://img.shields.io/badge/React-17-blue) ![Flask](https://img.shields.io/badge/Flask-1.1.2-blue) ![SQLite](https://img.shields.io/badge/SQLite-3-blue)  
-[CRUD Application](https://github.com/RezwanHassanKhan/FullStackAppWithFlaskandReact)
-  
-**Python**  
-![Python](https://img.shields.io/badge/Python-3-blue)  
-[Problem Solving on Python Fundamentals](https://github.com/RezwanHassanKhan/pythonPractice)  
-[Backend and Unit Testing for a Library Management System](https://github.com/RezwanHassanKhan/LibraryManagementSystem)
-
-**TypeScript**  
-![TypeScript](https://img.shields.io/badge/TypeScript-4-blue)  
-[Problem Solving on TypeScript Fundamentals](https://github.com/RezwanHassanKhan/typescriptPractice)  
-[Fundamentals of TypeScript Unit Testing Applied in Real Projects](https://github.com/RezwanHassanKhan/typescriptTestProject)  
-<!--[Backend and Unit Testing for a Product Management System](https://github.com/RezwanHassanKhan/ProductManagement) -->
-**GitHub**  
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-blue)  
-[CI/CD Implementation with GitHub Actions](https://github.com/RezwanHassanKhan/CICDPractice)
+- **Enterprise Software Development:** Building and maintaining Java/Python backend services, REST APIs, SQL-based analytics, and operational dashboards.
+- **Generative AI & Intelligent Agents:** Working with RAG, NL-to-SQL, LLM integration, AI-agent architectures, and context engineering.
+- **AI Evaluation:** Developing automated evaluation frameworks for SQL generation, schema validation, regression testing, and AI-agent reliability.
+- **Applied Machine Learning:** Developing predictive analytics prototypes using Random Forest, Decision Trees, explainable AI, and Java-to-Python integration.
+- **Backend Engineering:** Improving application reliability, data processing, integrations, and backend performance.
 
 ---
 
-<h2>🤖 Machine Learning/ AI Engineering Projects:</h2>
+## 🛠️ Technical Skills
 
-**End to End Machine Learning Project Implementation (Flask, REST API, Postman, Docker, Prometheus, Grafana)**  
-![Flask](https://img.shields.io/badge/Flask-1.1.2-blue) 
-![Docker](https://img.shields.io/badge/Docker-19.03-blue) 
-![REST API](https://img.shields.io/badge/REST%20API-1.0-lightgrey) 
-![Postman](https://img.shields.io/badge/Postman-8.0-orange) 
-![Prometheus](https://img.shields.io/badge/Prometheus-2.26.0-red) 
-![Grafana](https://img.shields.io/badge/Grafana-7.5.0-yellow)    
-1. [Toward an Automated Real-Time Anomaly Detection Engine in Microservice Architectures](https://github.com/RezwanHassanKhan/ADS)
+**Languages & Backend**
 
-**Binary and Multiclass Image Classification**  
-![Python](https://img.shields.io/badge/Python-3.8-blue) ![scikit-learn](https://img.shields.io/badge/scikit--learn-0.24.2-orange) ![Pandas](https://img.shields.io/badge/Pandas-1.2.4-green) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4.2-purple)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
-2. [Binary and Multiclass Image Classification](https://github.com/RezwanHassanKhan/BinaryMultiImageClassification)
-   
-**Image Classification and Prediction Using CNN**  
-![Python](https://img.shields.io/badge/Python-3.8-blue) ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.4-orange) ![Keras](https://img.shields.io/badge/Keras-2.4.3-red)  
+**Frontend & Databases**
 
-3. [Image Orientation Classification and Prediction Using CNN](https://github.com/RezwanHassanKhan/CNN_PROJECT)
----
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-<h2>📝 Key Publication</h2>
+**AI & Machine Learning**
 
-[Predicting Depression in Bangladeshi Undergraduates using Machine Learning](https://ieeexplore.ieee.org/document/8971369)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
----
-<h2>📝 Project Reports </h2>
+`LLMs` `RAG` `NL-to-SQL` `AI Agents` `A2A Protocol` `Explainable AI` `Predictive Analytics` `Anomaly Detection`
 
-1. [Comparison Study between the challenges of AI and Android Development through an empirical study of StackOverflow Posts](https://github.com/RezwanHassanKhan/MastersProjectReports/blob/cf6cb0ed82980e9ce03d5bb543f4cf0e386affb2/Mining_Software_Reposotories_Course.pdf)
-2. [Software Developer’s Productivity Prediction using
-Deep Learning Based on GitHub Public
-Repositories](https://github.com/RezwanHassanKhan/MastersProjectReports/blob/cf6cb0ed82980e9ce03d5bb543f4cf0e386affb2/Dsgn%26dev%20of%20DataIntensive%20App%20Course.pdf)
-3. [Stock Price Fluctuation Prediction using Machine Learning and
-Sentiment Analysis](https://github.com/RezwanHassanKhan/MastersProjectReports/blob/cf6cb0ed82980e9ce03d5bb543f4cf0e386affb2/Data%205000-Final%20Paper.pdf)
----
+**DevOps & Infrastructure**
 
-
-<h2>📺 YouTube Videos</h2>
-
-**Search Strategies**
-
-[Overview of Search Strategies](https://youtu.be/Ti5YKXnKivw)  
-[Breadth First Search (BFS)](https://youtu.be/j6bV7RZJ8w0)  
-[Depth First Search (DFS)](https://youtu.be/uplrJzQYmyo)  
-[Depth Limited Search (DLS)](https://youtu.be/O51nUWJfvDc)  
-[Uninformed Search Strategy](https://youtu.be/BNV6jt8B_vM)  
-[Iterative Deepening Search](https://youtu.be/98aYV_SqDsI)
-
-**TensorFlow 2.0 Tutorial**
-
-[Introduction to TensorFlow and Installation Guidelines](https://youtu.be/GFASR30hk2o)  
-[Import TF Library and Creating Multi-Dimensional Tensors](https://youtu.be/a13P_zMcGy8)  
-[Basic Mathematical Operations, Indexing, and Reshaping](https://youtu.be/WI1HLScpsck)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 
 ---
 
-<h2>⭐️ Recommendation</h2>
- 
-[Recommendations](https://www.linkedin.com/in/mdrezwankhan/details/recommendations/?detailScreenTabIndex=0)
+## 💼 Professional Experience
+
+### Full Stack Developer | SimFront
+*October 2024 – Present*
+
+- Develop Java/Python backend services for enterprise military simulation and analytics applications.
+- Implement reporting, data aggregation, operational dashboards, and backend business logic.
+- Develop predictive analytics and explainable machine learning prototypes.
+- Contribute to RAG-based NL-to-SQL database agent evaluation and improvement.
+- Build automated evaluation frameworks to assess AI-generated SQL, schema usage, and regression performance.
+
+### Automation Engineer & Data Scientist Intern | Micro Focus
+*January 2022 – December 2022*
+
+- Developed Python-based machine learning and statistical anomaly detection solutions.
+- Automated testing using Selenium and JUnit.
+- Built CI/CD pipelines with Jenkins for ML model deployment.
+- Worked with AWS and MLflow for machine learning workflows.
+
+### Machine Learning Engineer Intern | Ericsson (Mitacs Accelerate)
+*May 2021 – December 2021*
+
+- Developed LSTM and SARIMAX models for time-series forecasting and anomaly detection.
+- Built ETL pipelines for microservices running on Kubernetes.
+- Integrated monitoring using Grafana and Prometheus.
+- Used AWS SageMaker for scalable ML model deployment.
 
 ---
 
-<h2>🤳 Connect with Me:</h2>
+## 📂 Featured Projects
 
-<p align="left">
-    <a href="https://www.youtube.com/@raiseonemore683"><img alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
-    <a href="https://twitter.com/joshmadakor"><img alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-    <a href="https://www.linkedin.com/in/mdrezwankhan/"><img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-    <a href="mailto:md.rezwanhassankhan@gmail.com"><img alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
-</p>
+### 🤖 AI & Machine Learning
 
+**[Automated Real-Time Anomaly Detection Engine](https://github.com/RezwanHassanKhan/ADS)**
 
+Machine learning-based anomaly detection for microservice architectures, incorporating data pipelines, REST APIs, Docker, Prometheus, and Grafana.
+
+**[Image Orientation Classification Using CNN](https://github.com/RezwanHassanKhan/CNN_PROJECT)**
+
+Deep learning project using CNN architectures and TensorFlow/Keras to predict image orientation.
+
+**[Binary and Multiclass Image Classification](https://github.com/RezwanHassanKhan/BinaryMultiImageClassification)**
+
+Machine learning classification using Python, Scikit-learn, Pandas, and Matplotlib.
+
+### 💻 Software Engineering
+
+**[Full Stack Application — React, Flask & SQLite](https://github.com/RezwanHassanKhan/FullStackAppWithFlaskandReact)**
+
+A full-stack CRUD application demonstrating frontend/backend integration and database operations.
+
+**[Library Management System](https://github.com/RezwanHassanKhan/LibraryManagementSystem)**
+
+Python backend development and unit testing.
+
+**[CI/CD with GitHub Actions](https://github.com/RezwanHassanKhan/CICDPractice)**
+
+Practical implementation of automated workflows using GitHub Actions.
+
+### 🧠 Programming & Problem Solving
+
+- [Python Data Structures & Algorithms](https://github.com/RezwanHassanKhan/python_Problem_Solving_algoExpert)
+- [Python Fundamentals](https://github.com/RezwanHassanKhan/pythonPractice)
+- [TypeScript Fundamentals](https://github.com/RezwanHassanKhan/typescriptPractice)
+- [TypeScript Unit Testing](https://github.com/RezwanHassanKhan/typescriptTestProject)
+
+---
+
+## 🎓 Education
+
+**Master of Computer Science**  
+Carleton University, Ottawa, Canada  
+*2020 – 2023*
+
+Research: *Toward an Automated Real-Time Anomaly Detection Engine in Microservice Architectures*
+
+**Bachelor of Science in Computer Science and Engineering**  
+BRAC University, Dhaka, Bangladesh  
+*2015 – 2018*
+
+---
+
+## 📚 Research & Publications
+
+**[Predicting Depression in Bangladeshi University Students Using Machine Learning](https://ieeexplore.ieee.org/document/8971369)**
+
+Research applying machine learning algorithms to identify patterns and factors associated with depression among university students.
+
+**Bengali Voice-Controlled AI Robot for the Physically Challenged**
+
+Best Paper at IHCI 2020. Research involving natural language processing, image classification, and object detection.
+
+### Academic Project Reports
+
+- [Challenges of AI and Android Development — Stack Overflow Empirical Study](https://github.com/RezwanHassanKhan/MastersProjectReports/blob/cf6cb0ed82980e9ce03d5bb543f4cf0e386affb2/Mining_Software_Reposotories_Course.pdf)
+- [Software Developer Productivity Prediction Using Deep Learning](https://github.com/RezwanHassanKhan/MastersProjectReports/blob/cf6cb0ed82980e9ce03d5bb543f4cf0e386affb2/Dsgn%26dev%20of%20DataIntensive%20App%20Course.pdf)
+- [Stock Price Prediction Using Machine Learning and Sentiment Analysis](https://github.com/RezwanHassanKhan/MastersProjectReports/blob/cf6cb0ed82980e9ce03d5bb543f4cf0e386affb2/Data%205000-Final%20Paper.pdf)
+
+---
+
+## 📺 Technical Tutorials
+
+I also create educational videos covering computer science, search algorithms, and machine learning fundamentals.
+
+**Search Algorithms**
+
+- [Breadth-First Search (BFS)](https://youtu.be/j6bV7RZJ8w0)
+- [Depth-First Search (DFS)](https://youtu.be/uplrJzQYmyo)
+- [Depth-Limited Search (DLS)](https://youtu.be/O51nUWJfvDc)
+- [Iterative Deepening Search](https://youtu.be/98aYV_SqDsI)
+
+**TensorFlow Tutorials**
+
+- [Introduction to TensorFlow](https://youtu.be/GFASR30hk2o)
+- [Creating Multi-Dimensional Tensors](https://youtu.be/a13P_zMcGy8)
+- [Tensor Operations, Indexing & Reshaping](https://youtu.be/WI1HLScpsck)
+
+[Visit My YouTube Channel](https://www.youtube.com/@raiseonemore683)
+
+---
+
+## 🤝 Connect With Me
+
+🌐 Website: https://reztechlabs.dev/about
+
+💼 LinkedIn: https://www.linkedin.com/in/mdrezwankhan/
+
+💻 GitHub: https://github.com/RezwanHassanKhan
+
+📺 YouTube: https://www.youtube.com/@raiseonemore683
+
+📧 Email: mdrezwanhassank@gmail.com
+
+⭐ [LinkedIn Recommendations](https://www.linkedin.com/in/mdrezwankhan/details/recommendations/)
+
+---
+
+*Interested in software engineering, AI-enabled systems, and building reliable, intelligent applications.*
