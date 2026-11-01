@@ -8,7 +8,7 @@ I currently work at **SimFront**, developing enterprise software, backend analyt
 
 My interests include **software engineering, applied AI, intelligent agents, distributed systems, and machine learning**.
 
-🌐 **[Visit My Website](https://reztechlabs.dev/about)** | 💼 **[LinkedIn](https://www.linkedin.com/in/mdrezwankhan/)** | 📄 **[Resume](https://github.com/RezwanHassanKhan/resume/blob/main/md_khan_resume.docx-2.pdf)**
+🌐 **[Visit My Website](https://reztechlabs.dev/about)** | 💼 **[LinkedIn](https://www.linkedin.com/in/mdrezwankhan/)** | 📄 **[Resume]([https://github.com/RezwanHassanKhan/resume/blob/main/md_khan_resume.docx-2.pdf](https://github.com/RezwanHassanKhan/RezwanHassanKhan/blob/main/mdkhan_resume_ai_recent.pdf))**
 
 ---
 
