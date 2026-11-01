@@ -99,7 +99,7 @@ My interests include **software engineering, applied AI, intelligent agents, dis
 **[Automated Real-Time Anomaly Detection Engine](https://github.com/RezwanHassanKhan/ADS)**
 
 Machine learning-based anomaly detection for microservice architectures, incorporating data pipelines, REST APIs, Docker, Prometheus, and Grafana.
-
+<!--
 **[Image Orientation Classification Using CNN](https://github.com/RezwanHassanKhan/CNN_PROJECT)**
 
 Deep learning project using CNN architectures and TensorFlow/Keras to predict image orientation.
@@ -107,6 +107,7 @@ Deep learning project using CNN architectures and TensorFlow/Keras to predict im
 **[Binary and Multiclass Image Classification](https://github.com/RezwanHassanKhan/BinaryMultiImageClassification)**
 
 Machine learning classification using Python, Scikit-learn, Pandas, and Matplotlib.
+-->
 
 ### 💻 Software Engineering
 
@@ -162,7 +163,7 @@ Best Paper at IHCI 2020. Research involving natural language processing, image c
 - [Stock Price Prediction Using Machine Learning and Sentiment Analysis](https://github.com/RezwanHassanKhan/MastersProjectReports/blob/cf6cb0ed82980e9ce03d5bb543f4cf0e386affb2/Data%205000-Final%20Paper.pdf)
 
 ---
-
+<!--
 ## 📺 Technical Tutorials
 
 I also create educational videos covering computer science, search algorithms, and machine learning fundamentals.
@@ -183,7 +184,7 @@ I also create educational videos covering computer science, search algorithms, a
 [Visit My YouTube Channel](https://www.youtube.com/@raiseonemore683)
 
 ---
-
+-->
 ## 🤝 Connect With Me
 
 🌐 Website: https://reztechlabs.dev/about
