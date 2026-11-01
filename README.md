@@ -4,7 +4,7 @@
 
 I'm a Software Developer based in Ottawa, Canada, with a **Master's in Computer Science from Carleton University**.
 
-I currently work at **SimFront**, developing enterprise software, backend analytics services, and AI-enabled capabilities for military simulation applications.
+I currently work at **Calian**, developing enterprise software, backend analytics services, and AI-enabled capabilities for military simulation applications.
 
 My interests include **software engineering, applied AI, intelligent agents, distributed systems, and machine learning**.
 
@@ -65,7 +65,7 @@ My interests include **software engineering, applied AI, intelligent agents, dis
 
 ## 💼 Professional Experience
 
-### Full Stack Developer | SimFront
+### Full Stack Developer | Calian
 *October 2024 – Present*
 
 - Develop Java/Python backend services for enterprise military simulation and analytics applications.
